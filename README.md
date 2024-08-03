@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site](https://social-link-profile-by-yashi.netlify.app/)
+- Live Site URL: [Live Site](https://social-links-profile-by-yashi.netlify.app/)
 
 ## My Process
 
