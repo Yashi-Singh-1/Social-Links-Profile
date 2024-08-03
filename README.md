@@ -50,23 +50,19 @@ In this project, I learned to:
 - Use CSS custom properties to maintain a consistent color scheme.
 - Adjust layouts responsively with media queries to ensure compatibility across various device sizes.
 
-<pre><code>
-
+```
     <section class="profile-info">
         <h2>Jessica Randall</h2>
         <p class="user-location">London, United Kingdom</p>
         <p class="passion">"Front-end developer and avid reader."</p>
     </section>
+```
 
-</code></pre>
-
-<pre></code>
-
+<pre><code>
     .social-links a:hover {
         background-color: var(--green);
         color: var(--grey-700);
     }
-
 </code></pre>
 
 ### Continued Development
